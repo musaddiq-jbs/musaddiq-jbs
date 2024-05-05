@@ -28,9 +28,3 @@ Let's build something amazing together with Python! 🐍✨
 ![](https://github-readme-stats.vercel.app/api?username=musaddiq-jbs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=musaddiq-jbs&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=musaddiq-jbs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=musaddiq-jbs&label=Profile%20Views&color=4&pretty=true)](https://visitcount.itsvg.in)
