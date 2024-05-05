@@ -34,8 +34,8 @@
 
 Check out my latest blog posts on Medium:
 
-- [Your Latest Blog Post Title](https://medium.com/@yourusername/your-latest-blog-post)
-- [Another Interesting Blog Post](https://medium.com/@yourusername/another-interesting-blog-post)
+- [Building a PDF Question Answering App with Lyzr and Flask](https://medium.com/@musaddiq.jbs/building-a-pdf-question-answering-app-with-lyzr-and-flask-4bf060484e8c)
+- [🐍 Python Toolbox: Boosting Productivity with Popular Libraries and Frameworks 🚀](https://www.linkedin.com/pulse/python-toolbox-boosting-productivity-popular-mohammed-musaddiq-cexfc/?trackingId=qRRLyp6USWm9EJg%2FMx%2FAIA%3D%3D)
 
 ## 📫 Get in Touch
 
