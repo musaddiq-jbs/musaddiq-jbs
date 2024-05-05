@@ -30,8 +30,16 @@
 
 ![Mohammed Musaddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=musaddiq-jbs&show_icons=true&theme=radical)
 
+## 📝 Blog Posts
+
+Check out my latest blog posts on Medium:
+
+- [Your Latest Blog Post Title](https://medium.com/@yourusername/your-latest-blog-post)
+- [Another Interesting Blog Post](https://medium.com/@yourusername/another-interesting-blog-post)
+
 ## 📫 Get in Touch
 
 - 📧 Email: [musaddiq.jbs@gmail.com](mailto:musaddiq.jbs@gmail.com)
 - 🌐 Website: [musaddiq.in](https://musaddiq.in)
 - 💼 LinkedIn: [Mohammed Musaddiq](https://www.linkedin.com/in/mohammed-musaddiq-9b7659150/)
+- 📝 Medium: [@musaddiq.jbs](https://medium.com/@musaddiq.jbs)
